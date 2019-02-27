@@ -4,12 +4,11 @@ This burpsuite extender provides a solution on testing Enterprise applications t
 
 ## installation information  
 
-You can download the jar from here and install it directly to your BurpSuite 
+You can download the BearerToken.jar and install it directly to your BurpSuite 
 
-## Alternative path 
----------------------
+## or alternativey compile and create the jar yourself 
 
-### To compile and create the jar yourself follow the steps below : 
+### follow the steps below : 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1) clone this repo 
 2) unzip burp.zip file 
