@@ -15,7 +15,7 @@ You can download the BearerToken.jar and install it directly to your BurpSuite o
 6) When finished compiling go back one folder -> cd .. 
 7) be sure that you are at the same folder where the burp subfolder exists
 8) use the following command to create the jar file --> jar cf burpextender.jar burp 
-9) install it to BurpSuite 
+9) install burpextender.jar to BurpSuite 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 for more information on how to use this extension follow the link https://www.twelvesec.com/2017/05/05/authorization-token-manipulation/
