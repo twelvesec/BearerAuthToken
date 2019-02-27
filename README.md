@@ -12,10 +12,10 @@ You can download the BearerToken.jar and install it directly to your BurpSuite o
 3) change directory to burp subfolder 
 4) inside burp subfolder compile the java files using the following command --> javac *.java 
 5) if you get the following message "Some input files use unchecked or unsafe operations" recompile with --> javac -Xlint:unchecked *.java
-5) When finished compiling go back one folder -> cd .. 
-6) be sure that you are at the same folder where the burp subfolder exists
-7) use the following command to create the jar file jar cf burpextender.jar burp 
-8) install it to BurpSuite 
+6) When finished compiling go back one folder -> cd .. 
+7) be sure that you are at the same folder where the burp subfolder exists
+8) use the following command to create the jar file jar cf burpextender.jar burp 
+9) install it to BurpSuite 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 for more information follow the link https://www.twelvesec.com/2017/05/05/authorization-token-manipulation/
