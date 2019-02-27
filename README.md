@@ -2,6 +2,13 @@
 
 This burpsuite extender provides a solution on testing Enterprise applications that involve security Authorization tokens into every HTTP requests.Furthermore, this solution provides a better approach to solve the problem of Burp suite automated scanning failures when Authorization tokens exist.
 
+## installation information  
+
+You can download the jar from here and install it directly to your BurpSuite 
+
+## Alternative path 
+---------------------
+
 ### To compile and create the jar yourself follow the steps below : 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1) clone this repo 
