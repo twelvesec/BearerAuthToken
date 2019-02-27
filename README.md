@@ -18,4 +18,4 @@ You can download the BearerToken.jar and install it directly to your BurpSuite o
 9) install it to BurpSuite 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-for more information follow the link https://www.twelvesec.com/2017/05/05/authorization-token-manipulation/
+for more information on how to use this extension follow the link https://www.twelvesec.com/2017/05/05/authorization-token-manipulation/
